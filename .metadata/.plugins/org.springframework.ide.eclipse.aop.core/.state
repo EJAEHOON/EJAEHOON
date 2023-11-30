@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="week11"/>
+<aop-project name="week10"/>
+<aop-project name="week7"/>
+<aop-project name="week9"/>
+<aop-project name="SpringBootShoppingMall"/>
+</aop-reference-model>

@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Nov 29 18:23:01 KST 2023
+org.eclipse.jst.jee.server\:week9=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\week9
+org.eclipse.jst.jee.server\:week11=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\week11
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ljh99\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\week11\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar
+org.eclipse.jst.jee.server\:week10=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\week10

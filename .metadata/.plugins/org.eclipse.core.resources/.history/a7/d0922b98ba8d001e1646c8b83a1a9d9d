@@ -1,0 +1,5 @@
+package com.company.library.book;
+
+public class BookVo {
+
+}

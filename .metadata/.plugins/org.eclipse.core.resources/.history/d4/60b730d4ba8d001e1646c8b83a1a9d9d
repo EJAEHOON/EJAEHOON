@@ -1,0 +1,15 @@
+package com.company.library.book;
+
+public class BookVo {
+	int b_no;
+	String b_thumnail;
+	String b_name;
+	String b_author;
+	String b_publisher;
+	String b_publish_year;
+	String b_isbn;
+	String b_call_number;
+	int rental_able;
+	String b_reg_date;
+	String b_mod_date;
+}

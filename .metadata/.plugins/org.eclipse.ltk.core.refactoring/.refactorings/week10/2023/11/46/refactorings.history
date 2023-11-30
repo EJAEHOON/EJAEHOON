@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jdbc-context.xml&apos; to &apos;jdbc-context.xml&apos;&#x0D;&#x0A;- Original project: &apos;week10&apos;&#x0D;&#x0A;- Destination element: &apos;jdbc-context.xml&apos;&#x0D;&#x0A;- Original element: &apos;jdbc-context.xml&apos;" description="Copy file" element1="src/main/webapp/WEB-INF/spring/jdbc-context.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1699938615238" target="/week10/src/main/webapp/WEB-INF/spring/jdbc-context.xml" units="0" version="1.0"/>
+</session>
